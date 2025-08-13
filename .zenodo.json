@@ -1,0 +1,13 @@
+{
+  "title": "A Universal Entropy Bridge Between QCD and Gravity: Linking the 9.81 kB Constant to Black Hole Thermodynamics",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "This repository contains the LaTeX source, figures, tables, replication code, and final PDF for the paper 'A Universal Entropy Bridge Between QCD and Gravity'. The PDF is available in paper/main.pdf and is viewable online in the DOI landing page.",
+  "creators": [
+    {
+      "name": "Tupay, Johann Anton Michael",
+      "affiliation": "Independent Researcher, London, United Kingdom"
+    }
+  ],
+  "license": "MIT"
+}

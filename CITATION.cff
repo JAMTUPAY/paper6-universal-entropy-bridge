@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "A Universal Entropy Bridge Between QCD and Gravity: Linking the 9.81 kB Constant to Black Hole Thermodynamics"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Tupay"
+    given-names: "Johann Anton Michael"
+    affiliation: "Independent Researcher, London, United Kingdom"
+date-released: 2025-08-13
+version: "1.0"
+license: MIT
+type: article
+journal: "To be submitted to Physical Review D"
+url: "https://github.com/JAMTUPAY/paper6-universal-entropy-bridge"

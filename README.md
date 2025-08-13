@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16849019.svg)](https://doi.org/10.5281/zenodo.16849019)
+
 # A Universal Entropy Bridge Between QCD and Gravity — Paper 6
 
 **Author:** Johann Anton Michael Tupay  
@@ -85,4 +87,4 @@ This work is licensed under the [MIT License](LICENSE).
 ---
 
 ## Citation
-If you use this work, please cite it as described in [`CITATION.cff`](CITATION.cff).
+If you use this work, please cite it as described in [`CITATION.cff`](CITATION.cff) or via the DOI badge above.

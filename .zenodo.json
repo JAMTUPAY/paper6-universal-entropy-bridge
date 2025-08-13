@@ -9,5 +9,15 @@
       "affiliation": "Independent Researcher, London, United Kingdom"
     }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["QCD", "black hole thermodynamics", "entropy", "RG", "neutron stars"],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/JAMTUPAY/paper6-universal-entropy-bridge"
+    }
+  ],
+  "communities": [
+    {"identifier": "open-science"}
+  ]
 }
